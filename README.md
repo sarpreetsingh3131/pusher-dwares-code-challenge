@@ -1,4 +1,3 @@
 # pusher-dwares-code-challenge
 
-The container image can be found on
-<https://cloud.docker.com/u/sarpreetsingh/repository/docker/sarpreetsingh/pusher-dwares-code-challenge>
+container image link ==> `docker pull sarpreetsingh/pusher-dwarves-code-challenge`
